@@ -48,3 +48,28 @@ C:\Users\Ijlal Nasir\Documents\Visual Studio 2013\Projects\ERP_sample\ERP_Supply
 C:\Users\Ijlal Nasir\Documents\Visual Studio 2013\Projects\ERP_sample\ERP_SupplyChain\obj\Debug\ERP_SupplyChain.csprojResolveAssemblyReference.cache
 C:\Users\Ijlal Nasir\Documents\Visual Studio 2013\Projects\ERP_sample\ERP_SupplyChain\obj\Debug\ERP_SupplyChain.dll
 C:\Users\Ijlal Nasir\Documents\Visual Studio 2013\Projects\ERP_sample\ERP_SupplyChain\obj\Debug\ERP_SupplyChain.pdb
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\ERP_SupplyChain.dll.config
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\ERP_SupplyChain.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\ERP_SupplyChain.pdb
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\BusinessLogicLayer.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\DataAccessLayer.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\ERPEntities.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.Helpers.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.Mvc.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.Razor.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.WebPages.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\BusinessLogicLayer.pdb
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\DataAccessLayer.pdb
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\ERPEntities.pdb
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.Helpers.xml
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.Mvc.xml
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.Razor.xml
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.WebPages.xml
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\obj\Debug\ERP_SupplyChain.csprojResolveAssemblyReference.cache
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\obj\Debug\ERP_SupplyChain.dll
+C:\Users\Ijlal Nasir\Documents\GitHub\ERP-fyp\ERP_SupplyChain\obj\Debug\ERP_SupplyChain.pdb

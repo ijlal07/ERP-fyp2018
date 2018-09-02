@@ -48,6 +48,7 @@
       <DependentUpon>ERP.dbml</DependentUpon>
     </Compile>
     <Compile Include="Models\ItemsModel.cs" />
+    <Compile Include="Models\PatientModel.cs" />
     <Compile Include="Models\UserModel.cs" />
     <Compile Include="Models\VendorModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
